@@ -1,4 +1,4 @@
-# MiniLang / TinyLang Compiler — Project Documentation
+# TinyLang Compiler — Project Documentation
 
 ## Overview
 
