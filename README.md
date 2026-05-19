@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **full compiler pipeline** for a small imperative language called **TinyLang** (also referred to as MiniLang internally). The compiler is written in **Java** and uses **ANTLR 4** for lexing and parsing. It processes a `.tiny` source file through seven sequential stages and produces:
+This project implements a **full compiler pipeline** for a small imperative language called **TinyLang**. The compiler is written in **Java** and uses **ANTLR 4** for lexing and parsing. It processes a `.tiny` source file through seven sequential stages and produces:
 
 - A **symbol table** (from semantic analysis)
 - **Three-Address Code** (TAC) — saved as `.tac`
